@@ -1,20 +1,5 @@
 {"urls":[
- {
-    "url" : "https://gitee.com/shensw1/tv/raw/master/潇洒/api.json",
-    "name" : "潇洒"
-  },{
-    "url" : "https://gitee.com/shensw1/tv/raw/master/戏曲音乐/api.json",
-    "name" : "戏曲音乐"
-  }, {
-    "url" : "https://gitee.com/shensw1/tv/raw/master/短剧频道/api.json",
-    "name" : "短剧频道"
-  },{
-    "url" : "http://www.fish2018.us.kg/z/FongMi.json",
-    "name" : "真心"
-  },{
-    "url" : "http://www.fish2018.us.kg/p/jsm.json",
-    "name" : "pg"
-  },{
+{
     "url" : "https://gitee.com/shensw1/tv/raw/master/饭太硬/api.json",
     "name" : "饭太硬"
   },{
@@ -24,31 +9,36 @@
     "url" : "https://gitee.com/shensw1/tv/raw/master/小米/api.json",
     "name" : "小米"
   },{
-    "url" : "https://gitee.com/shensw1/tv/raw/master/欧歌/api.json",
-    "name" : "欧歌"
-  },{
     "url" : "https://gitee.com/shensw1/tv/raw/master/天微/api.json",
     "name" : "天微"
+  },{
+    "url" : "https://gitee.com/shensw1/tv/raw/master/戏曲音乐/api.json",
+    "name" : "戏曲音乐"
   }, {
+    "url" : "https://gitee.com/shensw1/tv/raw/master/短剧频道/api.json",
+    "name" : "短剧频道"
+  },{
     "url" : "https://gitee.com/shensw1/tv/raw/master/少儿频道/api.json",
     "name" : "少儿频道"
-  },{
-    "url" : "https://gitee.com/shensw1/tv/raw/master/摸鱼儿/api.json",
-    "name" : "摸鱼"
   }, {
+    "url" : "http://www.fish2018.us.kg/z/FongMi.json",
+    "name" : "真心"
+  },{
+    "url" : "http://www.fish2018.us.kg/p/jsm.json",
+    "name" : "pg"
+  },{
+    "url" : "https://gitee.com/shensw1/tw/raw/master/七星影视/api.json",
+    "name" : "七星影视"
+  },{
     "url" : "https://gitee.com/shensw1/tv/raw/master/王二小/api.json",
     "name" : "王二小"
   },{
     "url" : "https://gitee.com/shensw1/tv/raw/master/骚零/api.json",
     "name" : "骚零"
-  }, {
-    "url" : "https://gitee.com/shensw1/tv/raw/master/香雅情/api.json",
-    "name" : "香雅情"
+  },{
+    "url" : "https://gitee.com/shensw1/tw/raw/master/白嫖/api.json",
+    "name" : "白嫖"
   },{
     "url" : "https://gitee.com/shensw1/tv/raw/master/天天开心/api.json",
     "name" : "天天开心"
-  },  {
-    "url" : "https://gitee.com/shensw1/tv/raw/master/南风/api.json",
-    "name" : "南风"
   }
-]}
